@@ -1,0 +1,6 @@
+{
+  "name": "Context",
+  "description": "Zero-touch, background automation engine correlating background telemetry with accessibility orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

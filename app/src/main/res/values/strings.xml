@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Context</string>
+    <string name="accessibility_description">Real-time automation driver. Dynamically interacts with active playing views upon context shifting.</string>
+</resources>
